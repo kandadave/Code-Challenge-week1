@@ -31,7 +31,7 @@ window.onload = function(){
     } else{
       console.log("Please weka number iko valid")
     }
-  }
+}
   
 
 estimateTransactionFee();
